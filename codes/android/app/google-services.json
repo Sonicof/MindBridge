@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "581257164722",
+    "project_id": "mindbridge2-4f542",
+    "storage_bucket": "mindbridge2-4f542.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581257164722:android:2d47fdffa6e43df51d16ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.mind2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581257164722-uktl7n96fqopvg2pggi5rlkdqg2kpdro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mind2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "581257164722-vq57m4hfjc988urph5kp5soce07hslag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mind2",
+            "certificate_hash": "528350139d9060aa739f62b37900baee0fa23369"
+          }
+        },
+        {
+          "client_id": "581257164722-4p5opuragta88eo2671utkuq3b8dh2qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "*****"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581257164722-4p5opuragta88eo2671utkuq3b8dh2qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581257164722-tom1dol8486pm071vvooslgo1m8h8al4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mind2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
